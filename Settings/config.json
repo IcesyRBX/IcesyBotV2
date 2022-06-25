@@ -6,30 +6,29 @@
 
 "DEVELOPER": {
         "OWNER": "682211671728455702",
-        "CO_OWNER": ""
+        "CO_OWNER": "258975895283433472"
 },
 
 "SETTINGS": {
         "PREFIX": ">",
-        "ErrorChannel": "908596544478011456",
-        "SuccessChannel": ""
+        "ErrorChannel": "940403949968711751",
+        "SuccessChannel": "940403949968711751"
 },
 
 "CONNECTIONS": {
         "MONGO_URI": "Config in .env file or set it in the environment variable in your hostinger project",
         "OAUTHO2_INVITE": "",
-        "WEBSITE": "",
-        "DISCORD_SUPPORT": ""
-
+        "WEBSITE": "https://discord.gg/dnEYZh8DXv",
+        "DISCORD_SUPPORT": "https://discord.gg/dnEYZh8DXv"
 },
 
 "SERVER_ID": {
         "OFFICIAL": {
-                "Guild_ID_1": "",
-                "Guild_ID_2": ""
+                "Guild_ID_1": "782979968232849469",
+                "Guild_ID_2": "939661448144113684"
         },
         "TEST": {
-                "Guild_ID_1": "",
+                "Guild_ID_1": "925387692064268328",
                 "Guild_ID_2": ""
         }
 }

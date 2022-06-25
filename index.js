@@ -51,10 +51,6 @@ client.events = new Collection();
     require(`${process.cwd()}/Handlers/${handler}`)(client);
 });
 
-//=====================================| DATABASE |=====================================\\
-
-require(`${process.cwd()}/Databases/connect.js`);
-
 //=====================================| LOGIN TO BOT |=====================================\\
 
 client.login(process.env.TOKEN);

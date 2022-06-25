@@ -1,6 +1,6 @@
 {
   "name": "discord.js-v13-handler",
-  "version": "10.0.0",
+  "version": "2.0.0",
   "description": "Discord.js v13 Handler Template. Open Source, with Slash Commands, and Mongoose Database",
   "main": "index.js",
   "scripts": {
